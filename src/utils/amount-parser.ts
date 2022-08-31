@@ -44,7 +44,7 @@ export class AmountParser {
       currency,
       amount: currency.id === SAT.id
         ? new Amount(num, currency)
-        : new Amount(num, currency).mult(preferences.fiatMult),
+        : new Amount(num, currency).div(preferences.fiatMult),
       biasApplied: currency.id !== SAT.id,
       comment,
     };
