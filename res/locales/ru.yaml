@@ -2,7 +2,7 @@
 # ${opt(EXTERNAL_VAR, 'asVar', 'useKey')} - if EXTERNAL_VAR is not empty,
 #     translation of useKey will be called with EXTERNAL_VAR passed as asVar
 
-greeting: "Добро пожаловать!\n\nЭтот бот - криптокошелек для Lightning Network. Он позволяет подключаться к кастодиальным хранилищам и управлять своими средствами, примерно как это делают банковские приложения.\n\nИсходный код: <a href=\"https://github.com/yrzam/lndhub-tg\">бот</a>, <a href=\"https://github.com/BlueWallet/LndHub\">сервер</a>"
+greeting: "Добро пожаловать!\n\nЭтот бот - криптокошелек для Lightning Network. Он позволяет подключаться к кастодиальным хранилищам и управлять своими средствами, примерно как это делают банковские приложения.\n\nИсходный код: <a href=\"https://github.com/cryptocompose/lndhub-tg\">бот</a>, <a href=\"https://github.com/BlueWallet/LndHub\">сервер</a>"
 
 static:
   unavail: <b>Простите, функциональность временно недоступна</b>

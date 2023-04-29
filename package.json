@@ -13,14 +13,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yrzam/lndhub-tg.git"
+    "url": "git+https://github.com/cryptocompose/lndhub-tg.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/yrzam/lndhub-tg/issues"
+    "url": "https://github.com/cryptocompose/lndhub-tg/issues"
   },
-  "homepage": "https://github.com/yrzam/lndhub-tg#readme",
+  "homepage": "https://github.com/cryptocompose/lndhub-tg#readme",
   "devDependencies": {
     "@types/cache-manager": "^3.4.2",
     "@types/config": "^0.0.41",

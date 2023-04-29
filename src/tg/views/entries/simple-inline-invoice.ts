@@ -44,7 +44,7 @@ const SimpleInlineInvoice = {
           },
         ),
         id: wallet.id,
-        thumb_url: 'https://raw.githubusercontent.com/yrzam/lndhub-tg/main/'
+        thumb_url: 'https://raw.githubusercontent.com/cryptocompose/lndhub-tg/main/'
           + 'res/images/ln-logo.png',
 
         input_message_content: {

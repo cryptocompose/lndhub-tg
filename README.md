@@ -28,7 +28,7 @@ Please remember that the following parties will have full access to your funds: 
 Want to build locally? Uncomment build-related lines in compose before running step 3.
 
 ### Upgrade guide
-1. Read [release notes](https://github.com/yrzam/lndhub-tg/releases), make sure you can deal with mentioned upgrade issues if there are any
+1. Read [release notes](https://github.com/cryptocompose/lndhub-tg/releases), make sure you can deal with mentioned upgrade issues if there are any
 2. Clone repo if you built code yourself, or just change image version to be pushed from hub
 3. Run `docker-compose up -d` (or other command if you do not use compose)
 

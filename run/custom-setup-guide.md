@@ -5,7 +5,7 @@
 2. Make sure you have MongoDB 4.2+ instance running
 3. Start your container with provided [env variables](./env-guide.md)
 
-There are docker images for linux/amd64 and linux/arm64/v8 archs pushed to [dockerhub](https://hub.docker.com/repository/docker/yrzam/lndhub-tg) and [ghcr.io](https://github.com/yrzam/lndhub-tg/pkgs/container/lndhub-tg).
+There are docker images for linux/amd64 and linux/arm64/v8 archs pushed to [dockerhub](https://hub.docker.com/repository/docker/cryptocompose/lndhub-tg) and [ghcr.io](https://github.com/cryptocompose/lndhub-tg/pkgs/container/lndhub-tg).
 
 ### Standalone
 1. Clone this repo
